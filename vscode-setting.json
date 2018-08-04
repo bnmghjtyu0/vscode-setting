@@ -8,7 +8,7 @@
   "explorer.confirmDragAndDrop": false,
 
   //   terminal [字型(需下載 Fire Code))]
-  //   下載 Fire Code: https://github.com/bnmghjtyu0/vscode-setting/raw/master/FiraCode_1.204.zip
+  //   下載 Fira Code: https://github.com/bnmghjtyu0/vscode-setting/raw/master/FiraCode_1.204.zip
   "terminal.integrated.fontFamily": "Fira Code",
 
   //   prettier [程式碼寬度、單引號、結尾分號]
