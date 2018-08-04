@@ -7,7 +7,7 @@
   //   explorer [托放移動資料夾]
   "explorer.confirmDragAndDrop": false,
 
-  //   terminal [字型(需下載 Fire Code))]
+  //   terminal [字型(需下載 Fira Code))]
   //   下載 Fira Code: https://github.com/bnmghjtyu0/vscode-setting/raw/master/FiraCode_1.204.zip
   "terminal.integrated.fontFamily": "Fira Code",
 
